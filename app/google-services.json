@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077997053354",
+    "firebase_url": "https://matthaiagroupdirectory.firebaseio.com",
+    "project_id": "matthaiagroupdirectory",
+    "storage_bucket": "matthaiagroupdirectory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077997053354:android:c1114748912a86d8",
+        "android_client_info": {
+          "package_name": "com.give.matthaiagroupdirectory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077997053354-j798f9qe2e8rer0s79fdfc06uskkfn0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.give.matthaiagroupdirectory",
+            "certificate_hash": "6bfea8edcddd607457fcaa3a45a5b09ef5e73ccc"
+          }
+        },
+        {
+          "client_id": "1077997053354-ooogqv3emk9fvlbl8ioge7oik0oln518.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX8W9Xa6xni3zC4rKzvidAGb4OzDwa0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077997053354-ooogqv3emk9fvlbl8ioge7oik0oln518.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
